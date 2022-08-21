@@ -107,3 +107,4 @@ Keywords: oh-my-posh, Tabby, Terminus, VSCode, Python, venv
 ## Reference
 
 - [我的Terminal 設定方式 - Windows Terminal & ohmyposh](https://thomascsd.github.io/blog/2022-05-20-WindowTeminalAndOhMyPosh)
+- [如何打造一個華麗又實用的 PowerShell 命令輸入環境](https://blog.miniasp.com/post/2021/11/24/PowerShell-prompt-with-Oh-My-Posh-and-Windows-Terminal)
